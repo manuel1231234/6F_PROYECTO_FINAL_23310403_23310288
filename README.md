@@ -1,4 +1,4 @@
-# 6F_PROYECTO_FINAL_23310403_23310288
+# 6F_PROYECTO_FINAL_23310403
 # Sistema de Detección de Equipo de Protección Personal (EPP) con YOLO
 
 Integrantes
